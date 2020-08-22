@@ -1,0 +1,10 @@
+*.pyc
+*~
+# editor
+*.sw[opnlm]
+
+.DS_Store
+
+venv
+.idea
+.vscode

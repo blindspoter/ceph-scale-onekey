@@ -1,0 +1,8 @@
+--index-url https://pypi.douban.com/simple/
+--trusted-host pypi.douban.com
+
+simplejson==3.16.0
+requests==2.21.0
+shell==1.0.1
+fabric==2.5.0
+pyyaml==5.1
