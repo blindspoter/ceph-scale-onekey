@@ -1,2 +1,2 @@
-ceph-deploy-and-scale-onekey
-===========================
+ceph-scale-onekey
+=================
